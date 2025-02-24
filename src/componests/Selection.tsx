@@ -6,7 +6,7 @@ interface SelectionProps {
 }
 
 const Selection: React.FC<SelectionProps> = ({ select, setSelect }) => {
-  console.log(select);
+  // console.log(select);
 
   return (
     <div className="bg-black w-full relative">

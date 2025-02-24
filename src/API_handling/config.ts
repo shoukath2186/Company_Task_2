@@ -1,3 +1,4 @@
-const MainApi: string = 'http://localhost:3000/';
+const MainApi: string = 'https://company-task-2-server.vercel.app/';
+
 
 export default MainApi;
